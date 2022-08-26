@@ -21,14 +21,6 @@ body {
     background-size: contain;
 }
 
-/* .container {
-    width: 100vw;
-    min-height: 100vh;
-    background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
-    background-position: top left, bottom right;
-    background-repeat: no-repeat
-} */
-
 #ratings {
     width: 80%;
     margin: 0 auto;
